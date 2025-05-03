@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=38&pause=100000&center=true&vCenter=true&height=40&width=500&lines=Hi+👋,+I'm+Omindu+Hirushka;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=38&pause=1000&center=true&vCenter=true&height=40&width=500&lines=Hi+👋,+I'm+Omindu+Hirushka;" alt="Typing SVG" />
 </div>
 <div align="center">
   <h3 align="center">A Passionate Full-Stack Developer</h3>
