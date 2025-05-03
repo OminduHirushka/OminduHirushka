@@ -1,14 +1,11 @@
-# Hi 👋, I'm Omindu Hirushka
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 <div align="center">
-  <img src="https://github.com/ominduhirushka/ominduhirushka/blob/main/header.png" alt="header image" width="800"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=38&pause=100000&center=true&vCenter=true&height=40&width=500&lines=Hi+👋,+I'm+Omindu+Hirushka;" alt="Typing SVG" />
 </div>
-<h3 align="center">A Passionate Full-Stack Software Developer from Sri Lanka</h3>
 <div align="center">
+  <h3 align="center">A Passionate Full-Stack Developer</h3>
   <img src="https://komarev.com/ghpvc/?username=ominduhirushka&label=Profile%20views&color=0e75b6&style=flat" alt="profile views badge"/>
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Developer;Java+Developer;Problem+Solver" alt="Typing SVG" />
 </div>
 
 ## 💻 About Me
@@ -23,16 +20,16 @@
 
 <div align="center" style="margin-top: 20px;">
     <a href="https://linkedin.com/in/omindu-hirushka" target="_blank" style="margin: 0 10px; text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn" alt="LinkedIn" style="height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" title="LinkedIn" alt="LinkedIn" style="height: 60px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
     <a href="https://instagram.com/omindu_hirushka" target="_blank" style="margin: 0 10px; text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=instagram" title="Instagram" alt="Instagram" style="height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+        <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" title="Instagram" alt="Instagram" style="height: 60px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="https://github.com/ominduhirushka" target="_blank" style="margin: 0 10px; text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" style="height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+  <a href="mailto:ominduhirushka7@gmail.com" style="margin: 0 10px; text-decoration: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/235294017-8e6d236a-6f0f-4f0e-9f9a-1a8c8a8f0b5b.gif" title="Email" alt="Email" style="height: 60px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
-    <a href="mailto:ominduhirushka7@gmail.com" style="margin: 0 10px; text-decoration: none;">
-        <img src="https://skillicons.dev/icons?i=gmail" title="Email" alt="Email" style="height: 40px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
+    <a href="#" target="_blank" style="margin: 0 10px; text-decoration: none;">
+        <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" title="Discord" alt="Discord" style="height: 60px; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
 </div>
 
@@ -40,8 +37,6 @@
 ## 🛠️ Languages and Tools
 
 <div align="center">
-  <h3 style="font-family: 'Segoe UI', sans-serif; color: #2d3748; margin-bottom: 16px;">My Tech Stack</h3>
-  
   <!-- Programming Languages -->
   <div style="background: #f8fafc; padding: 16px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05);">
     <h4 style="margin-top: 0; color: #4a5568;">Languages</h4>
