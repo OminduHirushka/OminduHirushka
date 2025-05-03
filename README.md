@@ -97,10 +97,16 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ominduhirushka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ominduhirushka&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/ominduhirushka">
+    <img width="39%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ominduhirushka&hide=html,css,scss,shell&layout=compact&langs_count=8&theme=radical&hide_border=true&size_weight=0.3&count_weight=0.7&exclude_repo=github-readme-stats&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/ominduhirushka">
+    <img width="59%" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ominduhirushka&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=daily&properties=background" alt="streak stats"/>
+  </a>
+</div>
+<div align="center">
+  <a href="https://github.com/ominduhirushka">
+    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ominduhirushka&theme=tokyo-night&hide_border=true" alt="contribution graph" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ominduhirushka&theme=tokyonight" alt="streak stats"/>
-</div>
