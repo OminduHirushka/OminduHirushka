@@ -10,11 +10,11 @@
 
 ## 💻 About Me
 
-- 🔭 I'm currently working on **Web Applications and Full-Stack Projects**
-- 🌱 I'm currently learning **PERN Stack, AstroJS, and SpringBoot**
-- 💬 Ask me about **Web Development, Java**
+- 🔭 I'm currently working as a **Full Stack Developer (React)** at [CeyDigital Solutions](https://ceydigital.com/), contributing to the [Worklenz](https://www.worklenz.com)
+- 🌱 I'm currently learning **Typescript, AstroJS, and SpringBoot**
 - 📫 Reach me at **ominduhirushka7@gmail.com**
 - ⚡ Fun fact: **I love exploring new technologies and contributing to real-world projects**
+<!-- - 💬 Ask me about **Web Development, Java** -->
 
 ## 🔗 Connect with me
 
