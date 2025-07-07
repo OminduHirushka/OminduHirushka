@@ -94,6 +94,7 @@
   </div>
 </div>
 
+<!--
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -109,4 +110,4 @@
     <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ominduhirushka&theme=tokyo-night&hide_border=true" alt="contribution graph" />
   </a>
 </div>
-
+-->
